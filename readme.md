@@ -41,7 +41,7 @@ Development is not rote. There isn't a series of steps to follow to do Git right
 
 Push yourself to do what you have been skipping.  Take your time.
 
-1. You will work on the problem for 25 minutes.
+1. You will work on the problem for 20 minutes.
 - We will discuss what you have learned.
 - You will delete the code.  Throw it away.  **Yes, ALL of it.** This is an important step.
 - Switch to a different pair partner.
@@ -52,14 +52,14 @@ We should make it through 4 variations.
 ### Variations
 
 1. Pseudo code first.  Really feel like you have a handle on what to code before you pick up the keyboard.  If you've done this before, do it again.  This is practice.  Make it cleaner, clearer, more exacting, or more concise.
-- Skip pseudocode.  Only code for the easy cases, up to 1000.  Ignore 4, 9, 40 etc.
+- Skip pseudocode.  Start coding right away.  Only the easy stuff.  If it feels hard, look for something easier.
 - Switch programming methods.  If you've been following OOP, don't for this one (only variables and functions).  If you haven't used OOP, use it religiously this time.
 - Follow [Sandi Metz’ Rules](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)
 
 
 ## Sandi Metz' Rules
 1. Classes/Objects can be no longer than 100 lines of code.
-2. Methods can be no longer than five lines of code.
+2. Methods and functions can be no longer than five lines of code.
 3. Pass no more than four parameters into a method. Hash options are parameters.
 
 ## What is the problem? Romanize (120 min)
@@ -73,7 +73,10 @@ Use either.
 
 Reminder. You are not supposed to finish.  You are supposed to practice.
 
+If you want this to work for you, you MUST throw it all away.  Every time.
+
 Now, start the first, of many, [variations](#variations).
+
 
 ---
 
