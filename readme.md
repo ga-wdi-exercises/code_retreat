@@ -37,7 +37,7 @@ Development is not rote. There isn't a series of steps to follow to do Git right
 
 
 
-## Code Retreat style (10)
+## Code Retreat style (10 min)
 
 Push yourself to do what you have been skipping.  Take your time.
 
@@ -49,10 +49,11 @@ Push yourself to do what you have been skipping.  Take your time.
 
 We should make it through 4 variations.
 
+
 ### Variations
 
 1. Pseudo code first.  Really feel like you have a handle on what to code before you pick up the keyboard.  If you've done this before, do it again.  This is practice.  Make it cleaner, clearer, more exacting, or more concise.
-- Skip pseudocode.  Start coding right away.  Only the easy stuff.  If it feels hard, look for something easier.
+- Skip pseudocode.  Start coding right away.  Show results, in your browser, after only a minute!  Only the easy stuff.  If it feels hard, look for something easier.
 - Switch programming methods.  If you've been following OOP, don't for this one (only variables and functions).  If you haven't used OOP, use it religiously this time.
 - Follow [Sandi Metz’ Rules](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)
 
@@ -88,6 +89,7 @@ Now, start the first, of many, [variations](#variations).
 ## Other variations
 
 - Only code for the "hard" numbers (4, 9 40, 90).  Your romanize() function should only work for these numbers.
+- Strict Pair Programming.  One computer.  Switch Driver/Navigator at 10 minutes.
 - No mapping tables.  Only algorithms
 - Follow 4 Rules of Simple Design
 
